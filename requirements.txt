@@ -1,0 +1,9 @@
+streamlit>=1.28.0
+groundx>=0.1.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+opik>=1.8.20
+PyMuPDF>=1.23.0
+beam-client>=0.1.0
+
+
